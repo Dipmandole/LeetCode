@@ -36,6 +36,7 @@
 | [0018-4sum](https://github.com/Dipmandole/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dipmandole/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dipmandole/LeetCode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Dipmandole/LeetCode/tree/master/0031-next-permutation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [0018-4sum](https://github.com/Dipmandole/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dipmandole/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dipmandole/LeetCode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Dipmandole/LeetCode/tree/master/0031-next-permutation) |
 ## Greedy
 |  |
 | ------- |
