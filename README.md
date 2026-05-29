@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dipmandole/LeetCode/tree/master/0002-add-two-numbers) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Dipmandole/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Dipmandole/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [1340-jump-game-v](https://github.com/Dipmandole/LeetCode/tree/master/1340-jump-game-v) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Dipmandole/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Dipmandole/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Two Pointers
 |  |
 | ------- |
