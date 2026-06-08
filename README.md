@@ -52,6 +52,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Dipmandole/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2126-destroying-asteroids](https://github.com/Dipmandole/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dipmandole/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Dipmandole/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Dipmandole/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Dipmandole/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Dipmandole/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -65,6 +66,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dipmandole/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dipmandole/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Dipmandole/LeetCode/tree/master/0031-next-permutation) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Dipmandole/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Dipmandole/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Greedy
 |  |
@@ -115,4 +117,8 @@
 |  |
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Dipmandole/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
+## Simulation
+|  |
+| ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Dipmandole/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
