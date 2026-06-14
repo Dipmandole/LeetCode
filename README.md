@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dipmandole/LeetCode/tree/master/0002-add-two-numbers) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Dipmandole/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dipmandole/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dipmandole/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Dipmandole/LeetCode/tree/master/0031-next-permutation) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Dipmandole/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dipmandole/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Dipmandole/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Greedy
@@ -132,4 +134,8 @@
 |  |
 | ------- |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Dipmandole/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+## Stack
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Dipmandole/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
