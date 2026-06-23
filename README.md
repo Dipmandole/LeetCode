@@ -120,6 +120,7 @@
 | ------- |
 | [1340-jump-game-v](https://github.com/Dipmandole/LeetCode/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/Dipmandole/LeetCode/tree/master/1871-jump-game-vii) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Dipmandole/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Dipmandole/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Dipmandole/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Prefix Sum
@@ -127,6 +128,7 @@
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Dipmandole/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/Dipmandole/LeetCode/tree/master/1871-jump-game-vii) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Dipmandole/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Enumeration
 |  |
 | ------- |
