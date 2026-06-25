@@ -29,6 +29,7 @@
 | [2196-create-binary-tree-from-descriptions](https://github.com/Dipmandole/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Dipmandole/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Dipmandole/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Dipmandole/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Dipmandole/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Dipmandole/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Dipmandole/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Dipmandole/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/Dipmandole/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Two Pointers
 |  |
@@ -129,6 +131,7 @@
 | [1732-find-the-highest-altitude](https://github.com/Dipmandole/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/Dipmandole/LeetCode/tree/master/1871-jump-game-vii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Dipmandole/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Dipmandole/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -162,4 +165,17 @@
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Dipmandole/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/Dipmandole/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Dipmandole/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Dipmandole/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Dipmandole/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Dipmandole/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
