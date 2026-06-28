@@ -1,16 +1,16 @@
-#Sorting Approach O(log n)
+#Frequency Count (Optimal) O(n)
 class Solution(object):
     def maximumElementAfterDecrementingAndRearranging(self, arr):
-        arr.sort()
         n = len(arr)
+        count = [0] * (n + 1)
+        for num in arr:
+            count[min(num, n)] += 1
+        ans = 1
 
-        if arr[0] != 1:
-            arr[0] = 1
-
-        for i in range(1,n):
-            if abs(arr[i] - arr[i-1] > 1):
-                arr[i] = arr[i-1] + 1
-        return arr[-1]
+        for i in range(2,n+1):
+            nxt = ans + count[i]
+            ans = min(i,nxt)
+        return ans
         """
         :type arr: List[int]
         :rtype: int
