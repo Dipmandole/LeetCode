@@ -65,6 +65,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Dipmandole/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/Dipmandole/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Dipmandole/LeetCode/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Dipmandole/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/Dipmandole/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dipmandole/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dipmandole/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -94,6 +95,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dipmandole/LeetCode/tree/master/0011-container-with-most-water) |
 | [1833-maximum-ice-cream-bars](https://github.com/Dipmandole/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Dipmandole/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/Dipmandole/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dipmandole/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Dipmandole/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -111,6 +113,7 @@
 | [1340-jump-game-v](https://github.com/Dipmandole/LeetCode/tree/master/1340-jump-game-v) |
 | [1833-maximum-ice-cream-bars](https://github.com/Dipmandole/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Dipmandole/LeetCode/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Dipmandole/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/Dipmandole/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dipmandole/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Dipmandole/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
