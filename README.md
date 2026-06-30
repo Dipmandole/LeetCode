@@ -26,6 +26,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dipmandole/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Dipmandole/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dipmandole/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Dipmandole/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Dipmandole/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Dipmandole/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -37,6 +38,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dipmandole/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Dipmandole/LeetCode/tree/master/0014-longest-common-prefix) |
 | [1189-maximum-number-of-balloons](https://github.com/Dipmandole/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dipmandole/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/Dipmandole/LeetCode/tree/master/1871-jump-game-vii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dipmandole/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Dipmandole/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -48,6 +50,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dipmandole/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dipmandole/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/Dipmandole/LeetCode/tree/master/1871-jump-game-vii) |
 ## Array
 |  |
