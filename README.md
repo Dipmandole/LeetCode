@@ -64,6 +64,7 @@
 | [0027-remove-element](https://github.com/Dipmandole/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Dipmandole/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Dipmandole/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [1301-number-of-paths-with-max-score](https://github.com/Dipmandole/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/Dipmandole/LeetCode/tree/master/1340-jump-game-v) |
 | [1732-find-the-highest-altitude](https://github.com/Dipmandole/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Dipmandole/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -135,6 +136,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/Dipmandole/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/Dipmandole/LeetCode/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/Dipmandole/LeetCode/tree/master/1871-jump-game-vii) |
 | [3620-network-recovery-pathways](https://github.com/Dipmandole/LeetCode/tree/master/3620-network-recovery-pathways) |
@@ -213,6 +215,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/Dipmandole/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Dipmandole/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dipmandole/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
