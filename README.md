@@ -33,6 +33,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Dipmandole/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Dipmandole/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Dipmandole/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Dipmandole/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dipmandole/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
@@ -84,6 +85,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Dipmandole/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dipmandole/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Dipmandole/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Dipmandole/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Dipmandole/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Dipmandole/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Dipmandole/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
@@ -136,6 +138,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Dipmandole/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Dipmandole/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Dipmandole/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Dipmandole/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Dipmandole/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Dynamic Programming
@@ -212,6 +215,7 @@
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Dipmandole/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Dipmandole/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -228,6 +232,7 @@
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dipmandole/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Dipmandole/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Dipmandole/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
