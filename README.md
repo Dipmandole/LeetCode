@@ -28,6 +28,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dipmandole/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Dipmandole/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/Dipmandole/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dipmandole/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Dipmandole/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Dipmandole/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -70,6 +71,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Dipmandole/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/Dipmandole/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Dipmandole/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/Dipmandole/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Dipmandole/LeetCode/tree/master/1340-jump-game-v) |
 | [1732-find-the-highest-altitude](https://github.com/Dipmandole/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Dipmandole/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -129,6 +131,7 @@
 | [0016-3sum-closest](https://github.com/Dipmandole/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Dipmandole/LeetCode/tree/master/0018-4sum) |
 | [1288-remove-covered-intervals](https://github.com/Dipmandole/LeetCode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/Dipmandole/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Dipmandole/LeetCode/tree/master/1340-jump-game-v) |
 | [1833-maximum-ice-cream-bars](https://github.com/Dipmandole/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Dipmandole/LeetCode/tree/master/1840-maximum-building-height) |
