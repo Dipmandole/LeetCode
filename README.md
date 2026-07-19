@@ -46,6 +46,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dipmandole/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Dipmandole/LeetCode/tree/master/0014-longest-common-prefix) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dipmandole/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Dipmandole/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dipmandole/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/Dipmandole/LeetCode/tree/master/1871-jump-game-vii) |
@@ -122,6 +123,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dipmandole/LeetCode/tree/master/0011-container-with-most-water) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dipmandole/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/Dipmandole/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Dipmandole/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/Dipmandole/LeetCode/tree/master/2126-destroying-asteroids) |
@@ -210,6 +212,7 @@
 ## Stack
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dipmandole/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Dipmandole/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Counting Sort
 |  |
@@ -283,4 +286,8 @@
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Dipmandole/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Dipmandole/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
