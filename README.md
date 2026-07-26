@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dipmandole/LeetCode/tree/master/0002-add-two-numbers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Dipmandole/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Dipmandole/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/Dipmandole/LeetCode/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Dipmandole/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -80,6 +81,7 @@
 | [0027-remove-element](https://github.com/Dipmandole/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Dipmandole/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Dipmandole/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Dipmandole/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Dipmandole/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Dipmandole/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Dipmandole/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
@@ -150,6 +152,7 @@
 | [0015-3sum](https://github.com/Dipmandole/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Dipmandole/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Dipmandole/LeetCode/tree/master/0018-4sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Dipmandole/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Dipmandole/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Dipmandole/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Dipmandole/LeetCode/tree/master/1340-jump-game-v) |
