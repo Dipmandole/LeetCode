@@ -17,6 +17,7 @@
 | [1140-stone-game-ii](https://github.com/Dipmandole/LeetCode/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Dipmandole/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/Dipmandole/LeetCode/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/Dipmandole/LeetCode/tree/master/1563-stone-game-v) |
 | [1840-maximum-building-height](https://github.com/Dipmandole/LeetCode/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Dipmandole/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Dipmandole/LeetCode/tree/master/2029-stone-game-ix) |
@@ -114,6 +115,7 @@
 | [1340-jump-game-v](https://github.com/Dipmandole/LeetCode/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/Dipmandole/LeetCode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dipmandole/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/Dipmandole/LeetCode/tree/master/1563-stone-game-v) |
 | [1732-find-the-highest-altitude](https://github.com/Dipmandole/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Dipmandole/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/Dipmandole/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
@@ -225,6 +227,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/Dipmandole/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/Dipmandole/LeetCode/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/Dipmandole/LeetCode/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/Dipmandole/LeetCode/tree/master/1563-stone-game-v) |
 | [1871-jump-game-vii](https://github.com/Dipmandole/LeetCode/tree/master/1871-jump-game-vii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Dipmandole/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dipmandole/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -376,6 +379,7 @@
 | [0877-stone-game](https://github.com/Dipmandole/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Dipmandole/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Dipmandole/LeetCode/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/Dipmandole/LeetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Dipmandole/LeetCode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
