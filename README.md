@@ -111,6 +111,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dipmandole/LeetCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Dipmandole/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Dipmandole/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Dipmandole/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Dipmandole/LeetCode/tree/master/0015-3sum) |
@@ -237,6 +238,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Dipmandole/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Dipmandole/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Dipmandole/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Dipmandole/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -329,6 +331,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Dipmandole/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dipmandole/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
