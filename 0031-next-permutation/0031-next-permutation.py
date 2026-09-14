@@ -1,10 +1,5 @@
 class Solution(object):
     def nextPermutation(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: None
-        """
-
         ind = -1
         n = len(nums)
 
@@ -27,3 +22,13 @@ class Solution(object):
 
         # Step 4: Reverse the remaining part
         nums[ind + 1:] = reversed(nums[ind + 1:])
+
+        
+        
+        """
+        :type nums: List[int]
+        :rtype: None
+        """
+
+
+       
