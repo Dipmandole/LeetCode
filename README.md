@@ -123,6 +123,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Dipmandole/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dipmandole/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Dipmandole/LeetCode/tree/master/0035-search-insert-position) |
+| [0051-n-queens](https://github.com/Dipmandole/LeetCode/tree/master/0051-n-queens) |
 | [0486-predict-the-winner](https://github.com/Dipmandole/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dipmandole/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Dipmandole/LeetCode/tree/master/0877-stone-game) |
@@ -445,9 +446,14 @@
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Dipmandole/LeetCode/tree/master/0051-n-queens) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Dipmandole/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Nim Game
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Dipmandole/LeetCode/tree/master/2029-stone-game-ix) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Dipmandole/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
