@@ -126,6 +126,7 @@
 | [0035-search-insert-position](https://github.com/Dipmandole/LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Dipmandole/LeetCode/tree/master/0036-valid-sudoku) |
 | [0051-n-queens](https://github.com/Dipmandole/LeetCode/tree/master/0051-n-queens) |
+| [0136-single-number](https://github.com/Dipmandole/LeetCode/tree/master/0136-single-number) |
 | [0486-predict-the-winner](https://github.com/Dipmandole/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dipmandole/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Dipmandole/LeetCode/tree/master/0877-stone-game) |
@@ -396,6 +397,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Dipmandole/LeetCode/tree/master/0136-single-number) |
 | [1386-cinema-seat-allocation](https://github.com/Dipmandole/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Dipmandole/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Dipmandole/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
