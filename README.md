@@ -53,6 +53,7 @@
 | [0001-two-sum](https://github.com/Dipmandole/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dipmandole/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Dipmandole/LeetCode/tree/master/0036-valid-sudoku) |
+| [0169-majority-element](https://github.com/Dipmandole/LeetCode/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/Dipmandole/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Dipmandole/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dipmandole/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -128,6 +129,7 @@
 | [0051-n-queens](https://github.com/Dipmandole/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Dipmandole/LeetCode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/Dipmandole/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Dipmandole/LeetCode/tree/master/0169-majority-element) |
 | [0486-predict-the-winner](https://github.com/Dipmandole/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dipmandole/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Dipmandole/LeetCode/tree/master/0877-stone-game) |
@@ -224,6 +226,7 @@
 | [0015-3sum](https://github.com/Dipmandole/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Dipmandole/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Dipmandole/LeetCode/tree/master/0018-4sum) |
+| [0169-majority-element](https://github.com/Dipmandole/LeetCode/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dipmandole/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Dipmandole/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Dipmandole/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -329,6 +332,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Dipmandole/LeetCode/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/Dipmandole/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/Dipmandole/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2029-stone-game-ix](https://github.com/Dipmandole/LeetCode/tree/master/2029-stone-game-ix) |
@@ -343,6 +347,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Dipmandole/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Dipmandole/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Dipmandole/LeetCode/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dipmandole/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -464,4 +469,8 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Dipmandole/LeetCode/tree/master/0051-n-queens) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Dipmandole/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
