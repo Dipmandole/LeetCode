@@ -14,10 +14,7 @@ class Solution(object):
             else:
                 freq -= 1
 
-        return ans
-       
-        
-        
+        return ans   
         """
         :type nums: List[int]
         :rtype: int
