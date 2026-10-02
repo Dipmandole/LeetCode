@@ -130,6 +130,7 @@
 | [0036-valid-sudoku](https://github.com/Dipmandole/LeetCode/tree/master/0036-valid-sudoku) |
 | [0051-n-queens](https://github.com/Dipmandole/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Dipmandole/LeetCode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Dipmandole/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Dipmandole/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Dipmandole/LeetCode/tree/master/0169-majority-element) |
 | [0486-predict-the-winner](https://github.com/Dipmandole/LeetCode/tree/master/0486-predict-the-winner) |
@@ -266,6 +267,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Dipmandole/LeetCode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Dipmandole/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Dipmandole/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Dipmandole/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Dipmandole/LeetCode/tree/master/1140-stone-game-ii) |
