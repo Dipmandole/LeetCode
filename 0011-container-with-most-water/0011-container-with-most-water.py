@@ -1,5 +1,6 @@
 class Solution(object):
     def maxArea(self, height):
+        # Two pointer Approach
         maxAns = 0
         lp = 0
         rp = len(height) - 1
